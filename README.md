@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Zaid-97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Zaid-97/Zaid-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Zaid Alhilo
+Studying Computer Science at Texas A&M University - minor in Business and Cybersecurity
+Passionate about App and Web development
+I'm availble 713-572-7361 and zaid97@tamu.edu 
